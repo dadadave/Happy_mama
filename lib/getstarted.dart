@@ -21,7 +21,7 @@ class GetStarted extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               //Hello again!
-              Text("MAVERICKS",
+              Text("HAPPY MAMA",
             style: TextStyle(fontWeight: FontWeight.bold,
             fontSize: 30,color: Color.fromRGBO(1, 152, 116, 1) )
             ,),
