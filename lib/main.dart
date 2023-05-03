@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:mavericks/getstarted.dart';
+import 'package:mavericks/home.dart';
+import 'package:mavericks/pages/Home_page.dart';
 import 'loginpage.dart';
 import 'signup.dart';
 void main() {
@@ -14,7 +16,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: GetStarted()
+      home: MainPage()
     );
   }
 }
