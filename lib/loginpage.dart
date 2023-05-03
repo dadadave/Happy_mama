@@ -21,7 +21,7 @@ class LoginPage extends StatelessWidget {
            
             children: [
               //Hello again!
-              Text("HAPPY MAMA",
+              Text("MAVERICKS",
             style: TextStyle(fontWeight: FontWeight.bold,
             fontSize: 30,color: Color.fromRGBO(1, 152, 116, 1) )
             ,),
