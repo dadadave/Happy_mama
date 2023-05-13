@@ -158,8 +158,6 @@ class LoginPage extends StatelessWidget {
            )
               ],),
             ),
-            
-           
             ],
           ),
         ),
